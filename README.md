@@ -1,41 +1,28 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=1DF2F0&center=true&vCenter=true&width=750&lines=Welcome+to+Restaurant+Management+System!;Built+with+C+%7C+Arrays+%7C+Pointers+%7C+Functions" alt="Typing SVG" />
+</p>
+
 <h1 align="center">🍽️ Restaurant Management System</h1>
-<p align="center">
-  <em>A C Programming Project for CSE103 – Spring 2025 | East West University</em>
-</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/language-C-blue.svg" />
-  <img src="https://img.shields.io/badge/status-Active-green" />
-  <img src="https://img.shields.io/github/license/Taskintamim/restaurant-management-system" />
-  <img src="https://img.shields.io/github/stars/Taskintamim/restaurant-management-system?style=social" />
+  A simple yet functional command-line restaurant system built with C <br>
+  Manage orders, update serving times, and simulate real-world restaurant logic.
 </p>
 
 ---
 
-![Restaurant Banner](https://media.giphy.com/media/UqZyH9pN5sdWU/giphy.gif)
+## ✨ Features
 
-## 🚀 Overview
-
-The **Restaurant Management System** is a command-line-based application developed in C as part of the CSE103 course at East West University. This system simulates real-world restaurant operations such as placing and serving orders, managing serve times, and keeping track of multiple requests simultaneously.
-
-It focuses on core C programming concepts like:
-- ✅ Functions
-- ✅ Pointers
-- ✅ Arrays
+- 🔢 Add New Orders
+- 🗑️ Remove Existing Orders
+- ⏱️ Update Serving Time
+- 📋 Display All Current Orders
+- 🧠 Built using Functions, Arrays, and Pointers
+- 🚀 Handles up to 100 orders efficiently
 
 ---
 
-## 🎯 Features
+## 💾 Data Format
 
-- 📝 Register New Orders  
-- ❌ Remove or Cancel Orders  
-- 🕒 Update Order & Serve Time  
-- 📋 Display All Current Orders  
-- 📊 Handle Up to 100 Orders Efficiently
-
----
-
-## 🧾 Data Format
-
-Each order is stored in the format:
-
+Each order includes the following:
