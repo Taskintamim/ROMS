@@ -5,24 +5,3 @@
 
 <h1 align="center">🍽️ Restaurant Management System</h1>
 
-<p align="center">
-  A simple yet functional command-line restaurant system built with C <br>
-  Manage orders, update serving times, and simulate real-world restaurant logic.
-</p>
-
----
-
-## ✨ Features
-
-- 🔢 Add New Orders
-- 🗑️ Remove Existing Orders
-- ⏱️ Update Serving Time
-- 📋 Display All Current Orders
-- 🧠 Built using Functions, Arrays, and Pointers
-- 🚀 Handles up to 100 orders efficiently
-
----
-
-## 💾 Data Format
-
-Each order includes the following:
